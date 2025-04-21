@@ -1,4 +1,5 @@
 Flask
-nltk
-scikit-learn
 pymongo
+scikit-learn
+joblib
+numpy
